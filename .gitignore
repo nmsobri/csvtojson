@@ -1,0 +1,6 @@
+/target
+**/*.rs.bk
+.idea/
+*.exe
+*.csv
+*.json
